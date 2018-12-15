@@ -11,6 +11,7 @@ while (secretNumber !== guess) {
   if (isNaN(guess)) {
     guess = getRandomNumber(upTo);
   } else {
+    // document.write("My guess is " + guess + " <br>");
     attempts += 1;
     guess = getRandomNumber(upTo);
   }
