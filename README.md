@@ -1,6 +1,6 @@
 # README
 
-##Welcome to Automated Number Guesser.
+## Welcome to Automated Number Guesser.
 A secret number is randomly chosen and the computer will guess until it's right. Then display how many attempts it took and what that secret number was.
 
 ## Launch
